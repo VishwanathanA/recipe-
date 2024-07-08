@@ -1,0 +1,21 @@
+*{
+    border-radius: 8px;
+    align-items: center;
+}
+header{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+section p,ul,ol{
+    font-size: 25px;
+}
+section{
+    background-color:aqua;
+    width: 60%;
+    margin-left: 20%;
+}
+section h2{
+    font-size: 30px;
+}
